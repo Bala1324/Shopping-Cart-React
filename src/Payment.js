@@ -30,27 +30,27 @@ const Payment = () => {
                         <div class="col-md-5">
                             <div class="right border">
                                 <div class="header">Order Summary</div>
-                                <p>2 items</p>
+                                <p> items</p>
                                 <div class="row item">
-                                    <div class="col-4 align-self-center"><img class="img-fluid" src="https://i.imgur.com/79M6pU0.png"/></div>
+                                    <div class="col-4 align-self-center"><img class="img-fluid" src=""/></div>
                                         <div class="col-8">
-                                            <div class="row"><b>$ 26.99</b></div>
-                                            <div class="row text-muted">Be Legandary Lipstick-Nude rose</div>
-                                            <div class="row">Qty:1</div>
+                                            <div class="row"><b></b></div>
+                                            <div class="row text-muted"></div>
+                                            <div class="row">Qty:</div>
                                         </div>
                                     </div>
                                     <div class="row item">
-                                        <div class="col-4 align-self-center"><img class="img-fluid" src="https://i.imgur.com/Ew8NzKr.jpg"/></div>
+                                        <div class="col-4 align-self-center"><img class="img-fluid" src=""/></div>
                                             <div class="col-8">
-                                                <div class="row"><b>$ 19.99</b></div>
-                                                <div class="row text-muted">Be Legandary Lipstick-Sheer Navy Cream</div>
-                                                <div class="row">Qty:1</div>
+                                                <div class="row"><b></b></div>
+                                                <div class="row text-muted"></div>
+                                                <div class="row">Qty:</div>
                                             </div>
                                         </div>
                                         <hr></hr>
                                         <div class="row lower">
                                             <div class="col text-left">Subtotal</div>
-                                            <div class="col text-right">$ 46.98</div>
+                                            <div class="col text-right"></div>
                                         </div>
                                         <div class="row lower">
                                             <div class="col text-left">Delivery</div>
@@ -58,7 +58,7 @@ const Payment = () => {
                                         </div>
                                         <div class="row lower">
                                             <div class="col text-left"><b>Total to pay</b></div>
-                                            <div class="col text-right"><b>$ 46.98</b></div>
+                                            <div class="col text-right"><b></b></div>
                                         </div>
                                         <div class="row lower">
                                             <div class="col text-left"><a href="#"><u>Add promo code</u></a></div>
